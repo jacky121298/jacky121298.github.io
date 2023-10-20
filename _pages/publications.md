@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: Publications
-description:
+description: "Here are some of my publications. My research is mainly focused on autonomous driving: Intersection Management and 3D Perception."
 years_preprint: [2023]
 years_conference: [2022, 2021]
 years_workshop: [2020]
