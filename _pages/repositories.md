@@ -2,7 +2,7 @@
 layout: page
 permalink: /repositories/
 title: Repositories
-description: Here are some of my own GitHub repositories. If you are interested, please feel free to reach me out!
+description: Here are some of my own GitHub repositories. If you are interested to learn more, please feel free to reach out!
 nav: true
 nav_order: 3
 ---
