@@ -11,19 +11,19 @@
 - title: Education
   type: time_table
   contents:
-    - title: M.S. in Computer Science and Information Engineering
+    - title: M.S. in CSIE
       institution: National Taiwan University, Taipei, Taiwan
       year: 2021-2023
       description:
-        - Advisor: Prof. Winston H. Hsu
-        - Lab Affiliation: Communication and Multimedia Lab (CMLab)
-    - title: B.S. in Computer Science and Information Engineering
+        - "Advisor: Prof. Winston H. Hsu"
+        - "Lab Affiliation: Communication and Multimedia Lab (CMLab)"
+    - title: B.S. in CSIE
       institution: National Taiwan University, Taipei, Taiwan
       year: 2017-2021
       description:
-        - GPA: 4.23 / 4.3
-        - Ranking: 3% [<a href="https://drive.google.com/file/d/1iXHncrZJ3rYs342Y4MquQ1ptstLeaZK3/view?usp=sharing">Transcript</a>]
-        - Honors: Dean’s List Award * 4
+        - "GPA: 4.23 / 4.3"
+        - "Ranking: 3% [<a href="https://drive.google.com/file/d/1iXHncrZJ3rYs342Y4MquQ1ptstLeaZK3/view">Transcript</a>]"
+        - "Honors: Dean’s List Award * 4"
 
 - title: Experience
   type: time_table
@@ -48,7 +48,7 @@
 #       year: 2015-now
 #       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
-- title: Honors and Awards
+- title: Honors
   type: nested_list
   contents:
     - title: Award of Academic Excellence (Dean's List)
@@ -69,10 +69,12 @@
 #         - Description 2.
 
 - title: Extracurricular Experience
-  type: nested_list
+  type: time_table
   contents:
     - title: Vice Leader of Men’s Badminton Team
-      items:
+      institution: National Taiwan University, Taipei, Taiwan
+      year: 2017-2023
+      description:
         - Silver medalist at the 2018 National Intercollegiate Athletic Games
         - Bronze medalist at the 2019 National Intercollegiate Athletic Games
 
