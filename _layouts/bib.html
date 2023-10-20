@@ -15,6 +15,19 @@
             zoomable=false
             alt=entry.preview -%}
           {%- endif -%}
+        {%- elsif entry.abbr and entry.field -%}
+        <div class="col-sm-2 abbr">
+          {%- if site.data.venues[entry.abbr] -%}
+          <abbr class="badge"><a href="{{ site.data.venues[entry.abbr].url }}">{{entry.abbr}}</a></abbr>
+          {%- else -%}
+          <abbr class="badge">{{entry.abbr}}</abbr>
+          {%- endif -%}
+          {%- if site.data.fields[entry.field] -%}
+          <abbr class="badge {{ entry.field_badge_class }}"><a href="{{ site.data.fields[entry.field].url }}">{{entry.field}}</a></abbr>
+          {%- else -%}
+          <abbr class="badge {{ entry.field_badge_class }}">{{entry.field}}</abbr>
+          {%- endif -%}
+        </div>
         {%- elsif entry.abbr -%}
           {%- if site.data.venues[entry.abbr] -%}
             {%- assign venue_style = nil -%}
