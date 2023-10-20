@@ -1,12 +1,10 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - jacky121298
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - WLST
+  - Intersection_Management_CTPN Intersection_Management_CTPN
+  - Mahjong
+  - NTU_DIP
+  - NTU_VFX
+  - NTU_ML
