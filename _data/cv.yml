@@ -13,13 +13,13 @@
   contents:
     - title: M.S. in Computer Science and Information Engineering
       institution: National Taiwan University, Taipei, Taiwan
-      year: 2021-2023
+      year: 2021 ~ 2023
       description:
         - "Advisor: Prof. Winston H. Hsu"
         - "Lab Affiliation: Communication and Multimedia Lab (CMLab)"
     - title: B.S. in Computer Science and Information Engineering
       institution: National Taiwan University, Taipei, Taiwan
-      year: 2017-2021
+      year: 2017 ~ 2021
       description:
         - "GPA: 4.23 / 4.3"
         - "Ranking: 3%"
@@ -36,7 +36,7 @@
         - Applied the knowledge distillation (KD) technique to reduce the model size by around 40% while preserving comparable performance.
     - title: Network Administrator
       institution: Men’s 1st Dormitory at National Taiwan University
-      year: 2018 - 2020
+      year: 2018 ~ 2020
       description:
         - Troubleshooted Internet issues for 100+ students.
         - Improved and maintained the automatic email sending system.
@@ -73,7 +73,7 @@
   contents:
     - title: Vice Leader of Men’s Badminton Team
       institution: National Taiwan University, Taipei, Taiwan
-      year: 2017-2023
+      year: 2017 ~ 2023
       description:
         - Silver medalist at the 2018 National Intercollegiate Athletic Games
         - Bronze medalist at the 2019 National Intercollegiate Athletic Games
