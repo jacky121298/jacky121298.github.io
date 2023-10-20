@@ -5,6 +5,8 @@
       value: Tsung-Lin Tsou
     - name: E-mail
       value: b06902060@csie.ntu.edu.tw
+    - name: About Me
+      value: "I am skilled in Computer Vision, 3D Object Detection, Domain Adaptation, and Sensor Fusion. My research is mainly focused on autonomous driving: Intersection Management and 3D Perception."
 
 - title: Education
   type: time_table
