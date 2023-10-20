@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /publications/
-title: publications
+title: Publications
 description:
 years_preprint: [2023]
 years_conference: [2022, 2021]
