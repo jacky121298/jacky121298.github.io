@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+title: Campus Life Vlog
+description: campus life @ NTU
+img: assets/img/campus.png
+redirect: https://youtu.be/SLqWXDurcu0?si=o20jcLcGeFgDoeLR
 importance: 2
-category: work
-giscus_comments: true
+category: leisure
 ---
 
 Every project has a beautiful feature showcase page.
