@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: Badminton Open
+description: me participating in the university badminton open
+img: assets/img/competition.png
+redirect: https://youtu.be/Mz0gTkynScE?si=IHY9icut5KXKLwCB
 importance: 1
-category: work
-related_publications: einstein1956investigations, einstein1950meaning
+category: leisure
 ---
 
 Every project has a beautiful feature showcase page.
