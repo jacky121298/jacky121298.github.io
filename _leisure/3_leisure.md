@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+title: Club
+description: me participating in establishing a badminton club
+img: assets/img/club.png
+redirect: https://www.youtube.com/@user-dx4pd8gs3p
 importance: 3
-category: work
+category: leisure
 ---
 
 Every project has a beautiful feature showcase page.
