@@ -352,7 +352,7 @@ blockquote {
   text-align: center;
 
   .contact-icons {
-    font-size: 4rem;
+    font-size: 2.5rem;
 
     a {
       i::before {
@@ -365,6 +365,8 @@ blockquote {
           color: var(--global-theme-color);
         }
       }
+      padding-left: 0.3rem;
+      padding-right: 0.3rem;
     }
   }
 
