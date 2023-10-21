@@ -6,7 +6,7 @@
     - name: E-mail
       value: b06902060@csie.ntu.edu.tw
     - name: Habit
-      value: Badminton, Basketball, Movie
+      value: Badminton, Travel, Movie
 
 - title: Education
   type: time_table
