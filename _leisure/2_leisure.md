@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Campus Life Vlog
+title: Campus Life
 description: campus life @ NTU
 img: assets/img/campus.png
 redirect: https://youtu.be/SLqWXDurcu0?si=o20jcLcGeFgDoeLR

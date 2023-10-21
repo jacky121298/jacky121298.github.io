@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Badminton Open
+title: Competition
 description: me participating in the university badminton open
 img: assets/img/competition.png
 redirect: https://youtu.be/Mz0gTkynScE?si=IHY9icut5KXKLwCB
