@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: 3DAL_PyTorch
+description: pytorch implementation of CVPR 2021 paper 3DAL
+img: assets/img/3DAL.png
+redirect: https://github.com/jacky121298/3DAL_PyTorch
 importance: 1
 category: work
-related_publications: einstein1956investigations, einstein1950meaning
 ---
 
 Every project has a beautiful feature showcase page.

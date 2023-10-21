@@ -2,7 +2,7 @@
 layout: barebone
 title: Projs & Leisure
 permalink: /projects/
-description:
+description: other interesting computer science-related projects
 nav: true
 nav_order: 2
 display_categories:
