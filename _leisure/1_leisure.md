@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Competition
-description: me participating in the university badminton open
+description: I participated in the university badminton open
 img: assets/img/competition.png
 redirect: https://youtu.be/Mz0gTkynScE?si=IHY9icut5KXKLwCB
 importance: 1

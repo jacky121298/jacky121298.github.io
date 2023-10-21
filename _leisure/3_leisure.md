@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Club
-description: me participating in establishing a badminton club
+description: I participated in establishing a badminton club
 img: assets/img/club.png
 redirect: https://www.youtube.com/@user-dx4pd8gs3p
 importance: 3
