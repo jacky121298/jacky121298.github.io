@@ -449,6 +449,16 @@ footer.sticky-bottom {
         color: var(--global-card-bg-color) !important;
         background-color: var(--global-theme-color) !important;
       }
+
+      .badge_vision {
+        color: var(--global-card-bg-color) !important;
+        background-color: var(--vision-theme-color) !important;
+      }
+
+      .badge_automation {
+        color: var(--global-card-bg-color) !important;
+        background-color: var(--automation-theme-color) !important;
+      }
     }
   }
 }
@@ -680,6 +690,32 @@ footer.sticky-bottom {
           a {
             color: white;
 
+            &:hover {
+              text-decoration: none;
+            }
+          }
+        }
+
+        abbr.badge_vision {
+          display: inline-block;
+          background-color: var(--vision-theme-color);
+          padding-left: 1rem;
+          padding-right: 1rem;
+          a {
+            color: white;
+            &:hover {
+              text-decoration: none;
+            }
+          }
+        }
+
+        abbr.badge_automation {
+          display: inline-block;
+          background-color: var(--automation-theme-color);
+          padding-left: 1rem;
+          padding-right: 1rem;
+          a {
+            color: white;
             &:hover {
               text-decoration: none;
             }
