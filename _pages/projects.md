@@ -1,6 +1,6 @@
 ---
 layout: barebone
-title: Projs & Life
+title: Projs & Leisure
 permalink: /projects/
 description:
 nav: true
@@ -37,13 +37,13 @@ horizontal: false
   {%- endif -%}
 </div>
 
-<h1 class="post-title">Life</h1>
+<h1 class="post-title">Leisure</h1>
 <p class="post-description">
 Badminton🏸 / Competition🏅 / Travel🚀
 </p>
 <div class="projects">
 <!-- Display projects without categories -->
-  {%- assign sorted_projects = site.life | sort: "importance" -%}
+  {%- assign sorted_projects = site.leisure | sort: "importance" -%}
   <!-- Generate cards for each project -->
   {% if page.horizontal -%}
   <div class="container">
