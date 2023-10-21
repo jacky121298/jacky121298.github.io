@@ -20,6 +20,4 @@ Hello! I'm Tsung-Lin Tsou. I received my M.S. degree in [Computer Science and In
 
 Prior to my M.S. degree, I also earned my B.S. degree in [Computer Science and Information Engineering](https://www.csie.ntu.edu.tw//?locale=en) from [National Taiwan University](https://www.ntu.edu.tw/english). Additionally, during my undergraduate studies, I conducted research in the areas of <b>3D Auto Labeling</b> with Prof. [Winston H. Hsu](https://winstonhsu.info) and <b>Intersection Management</b> with Prof. [Chung-Wei Lin](https://www.csie.ntu.edu.tw/~cwlin/).
 
-For my work experience, I worked as a network administrator in the Men’s 1st Dormitory and completed an internship with the [MediaTek](https://www.mediatek.com) Video Coding & Processing Team.
-
-During my internship, I was responsible for designing convolutional neural networks to function as loop filters in the field of <b>Video Coding</b>. I also applied the <b>Knowledge Distillation</b> technique to optimize cost reduction.
+For my work experience, I worked as a network administrator in the Men’s 1st Dormitory at National Taiwan University and completed an internship with the [MediaTek](https://www.mediatek.com) Video Coding & Processing Team. During my internship, I was responsible for designing convolutional neural networks to function as loop filters in the field of <b>Video Coding</b>. I also applied the <b>Knowledge Distillation</b> technique to optimize cost reduction.
