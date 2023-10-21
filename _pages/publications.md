@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: "Here are some of my publications. My research is mainly focused on autonomous driving: Intersection Management and 3D Perception."
+description: "Here are some of my publications. My research is mainly focused on autonomous driving: Intersection Management (e.g. Deadlock Prevention, Traffic Simulation with SUMO...) and 3D Perception (e.g. Weakly-supervised 3D Object Detection, Domain Adaptation, Sensor Fusion...)."
 years_preprint: [2023]
 years_conference: [2022, 2021]
 years_workshop: [2020]
