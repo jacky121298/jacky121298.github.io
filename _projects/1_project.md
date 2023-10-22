@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 3DAL_PyTorch
-description: pytorch implementation of CVPR 2021 paper 3DAL
+description: "pytorch implementation of CVPR 2021 method 3DAL (3D Auto Labeling) proposed by Qi et. al"
 img: assets/img/3DAL.png
 redirect: https://github.com/jacky121298/3DAL_PyTorch
 importance: 1
