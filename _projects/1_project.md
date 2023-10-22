@@ -2,7 +2,7 @@
 layout: page
 title: 3DAL_PyTorch
 description: pytorch implementation of CVPR 2021 paper 3DAL
-img: assets/img/3DAL.png
+img: assets/img/12.jpg
 redirect: https://github.com/jacky121298/3DAL_PyTorch
 importance: 1
 category: work
