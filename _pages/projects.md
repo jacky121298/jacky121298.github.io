@@ -36,7 +36,8 @@ other interesting computer science-related projects🧑🏻‍💻
   </div>
   {%- endif -%}
 </div>
-
+&nbsp;
+&nbsp;
 <h1 class="post-title">Leisure</h1>
 <p class="post-description">
 Badminton🏸 / Competition🏅 / Travel🚀
