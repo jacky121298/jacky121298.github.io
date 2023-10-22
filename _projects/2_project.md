@@ -2,7 +2,7 @@
 layout: page
 title: Mahjong
 description: Mahjong score calculator with user-friendly UI design and history display functions
-img: assets/img/9.jpg
+img: assets/img/Mahjong.png
 redirect: https://github.com/jacky121298/Mahjong
 importance: 2
 category: work
