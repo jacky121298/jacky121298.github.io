@@ -32,7 +32,7 @@
       institution: MediaTek, Video Coding & Processing
       year: 2021
       description:
-        - Designed convolutional neural networks (CNNs) to serve as loop filters, effectively reducing non-local redundancies in video coding.
+        - Designed convolutional neural networks (CNNs) to serve as loop filters, effectively reducing quantization noise in video coding.
         - Applied the knowledge distillation (KD) technique to reduce the model size by around 40% while preserving comparable performance.
     - title: Network Administrator
       institution: Men’s 1st Dormitory at National Taiwan University
