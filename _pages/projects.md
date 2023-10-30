@@ -14,7 +14,7 @@ horizontal: false
 
 <h1 class="post-title">Projects</h1>
 <p class="post-description">
-other interesting computer science-related projects🧑🏻‍💻
+Other interesting computer science-related projects🧑🏻‍💻
 </p>
 <div class="projects">
 <!-- Display projects without categories -->

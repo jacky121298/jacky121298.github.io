@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Campus Life
-description: campus life @ National Taiwan University
+description: Campus life @ National Taiwan University
 img: assets/img/campus.png
 redirect: https://youtu.be/SLqWXDurcu0?si=o20jcLcGeFgDoeLR
 importance: 2
