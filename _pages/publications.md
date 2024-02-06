@@ -10,6 +10,7 @@ nav_order: 1
 ---
 <!-- _pages/publications.md -->
 
+<article>
 <div class="publications">
 <h2 class="publ-cat">Conference Paper</h2>
 {%- for y in page.years_conference %}
